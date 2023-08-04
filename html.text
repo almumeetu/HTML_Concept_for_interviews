@@ -64,5 +64,26 @@
 
         The name parameter takes the name of the property we would like to assign to the element and 
         the value takes the property value or extent of the property names that can be aligned over the element.
-        
+
         Every name has some value that must be written within quotes.
+
+
+5. Are <b> and <strong> tags same? If not, then why?
+
+    HTML strong tag: The strong tag is one of the elements of HTML used in formatting HTML texts.
+
+    It is used to show the importance of the text by making it bold or highlighting it semantically.
+
+    Syntax: <strong> Contents... </strong>
+
+
+    HTML bold tag: The bold tag or <b> is also one of the formatting elements of HTML.
+
+    The text written under the <b> tag makes the text bold presentationally to draw attention.
+
+    Syntax: <b> Contents... </b>
+
+
+    The main difference between the <bold> tag & <strong> tag is that the strong tag semantically 
+    
+    emphasizes the important word or section of words while the bold tag is just offset text conventionally styled in bold
