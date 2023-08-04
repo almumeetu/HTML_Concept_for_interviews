@@ -1,0 +1,38 @@
+1. What is !DOCTYPE?
+
+A doctype or document-type declaration is an instruction that tells the web browser
+
+about the markup language in which the current page is written. The doctype is not an element or tag,
+
+it lets the browser know about the version of or standard of HTML or any other markup language that 
+
+is being used in the document.The DOCTYPE for HTML5 is case-insensitive and can be written as shown below:
+
+
+2. What are elements and tags, and what are the differences between them?
+
+HTML Tags: Tags are the starting and ending parts of an HTML element. They begin with < symbol and end with > symbol. Whatever is written inside < and > are called tags.
+
+Syntax: <p> </p>  
+
+HTML elements: Elements enclose the contents in between the tags. They consist of some kind of structure or expression. It generally consists of a start tag, content, and an end tag.
+
+Syntax: <p>This is the content.</p>
+
+Difference between HTML Tag & HTML Element:
+
+HTML Tag:
+
+1. Either opening or closing is used to mark the start or end of an element.
+
+2. Used to hold the HTML element.
+
+3. Starts with < and ends with >.
+
+HTML Elements:
+
+1. Collection of a start tag, end tag, and its attributes.
+
+2. Holds the content.
+
+3. Whatever is written within an HTML tag are HTML elements.
