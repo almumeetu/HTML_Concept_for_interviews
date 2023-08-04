@@ -85,5 +85,26 @@
 
 
     The main difference between the <bold> tag & <strong> tag is that the strong tag semantically 
-    
+
     emphasizes the important word or section of words while the bold tag is just offset text conventionally styled in bold
+
+
+6. What is the difference between <em> and <i> tags?
+
+    <i> tag: It is one of the elements of HTML which is used in formatting HTML texts. It is used to define a text in technical terms,
+
+    alternative mood or voice, a thought, etc.
+
+    Syntax: <i> Content... </i>
+
+
+    <em> tag: It is also one of the elements of HTML used in formatting texts. It is used to define emphasized text or statements.
+
+    Syntax: <em> Content... </em>
+
+
+    By default, the visual result is the same but the main difference between these two tags is that the <em> tag semantically emphasizes
+
+    the important word or section of words while the <i> tag is just offset text conventionally styled in italic 
+    
+    to show alternative mood or voice.
