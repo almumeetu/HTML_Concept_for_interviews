@@ -135,5 +135,14 @@
         A style sheet helps in creating a well-defined template for an HTML webpage that is both consistent as well as portable. 
 
         We can link a single style sheet template to various web pages,
-        
+
         which makes it easier to maintain and change the look of the website.
+
+
+9. What is semantic HTML?
+
+    Semantic HTML is a coding style. It is the use of HTML markup to reinforce the semantics or meaning of the content. 
+
+    For example: In semantic HTML <b> </b> tag is not used for bold statement as well as <i> </i> tag is not used for italic.
+
+    Instead of these we use <strong></strong> and <em></em> tags.
